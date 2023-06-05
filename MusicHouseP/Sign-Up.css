@@ -1,0 +1,105 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/guitar.jpg");
+  background-position: 50% 50%;
+  min-height: 566px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 566px;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-family: Actor;
+  font-size: 4.0625rem;
+  margin: 37px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 343px;
+  width: 570px;
+  margin: 9px auto 0;
+}
+
+.u-section-1 .u-input-1 {
+  box-shadow: 0px 2px 8px 0px rgba(128,128,128,1);
+  background-image: none;
+}
+
+.u-section-1 .u-input-2 {
+  box-shadow: 0px 2px 8px 0px rgba(128,128,128,1);
+  background-image: none;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-3 {
+  box-shadow: 0px 2px 8px 0px rgba(128,128,128,1);
+  background-image: none;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-4 {
+  box-shadow: 0px 2px 8px 0px rgba(128,128,128,1);
+  background-image: none;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-weight: 700;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 776px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 743px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 737px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 320px;
+  }
+}
